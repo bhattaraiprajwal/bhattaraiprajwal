@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate and detail-oriented software developer. My journey into the world of programming started with [MARUP,CSS]. Since then, I have been fascinated by the intersection of code, design, and problem-solving.
+I am a passionate and detail-oriented software developer. My journey into the world of programming started with [MARKUP,CSS]. Since then, I have been fascinated by the intersection of code, design, and problem-solving.
 
 ## Skills
 
