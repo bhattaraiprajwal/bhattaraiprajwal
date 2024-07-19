@@ -6,7 +6,7 @@ I am a passionate and detail-oriented software developer. My journey into the wo
 
 ## Skills
 
-- **Languages:** [C,C++,Python6,HTML,CSS,Javascript,Php.]
+- **Languages:** [C,C++,Python,HTML,CSS,Javascript,Php.]
 =- **Frameworks/Libraries:** [Bootstrap,Material CSS,ANGULAR,REACT.]
 - **Databases:** [Mysql,Supabase,Mongodb]
 
