@@ -13,7 +13,6 @@ I am a passionate and detail-oriented software developer. My journey into the wo
 
 ## Contact Me
 
-- 
 - Email: [bhattaraiprajwal234@gmail.com]
 
 ## Fun Facts
