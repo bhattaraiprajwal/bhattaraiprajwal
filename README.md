@@ -8,7 +8,7 @@ I am a passionate and detail-oriented software developer. My journey into the wo
 
 - **Languages:** [C,C++,Python6,HTML,CSS,Javascript,Php.]
 =- **Frameworks/Libraries:** [Bootstrap,Material CSS,ANGULAR,REACT.]
-- **Databases:** [Mysql,Supabasee,Mongodb]
+- **Databases:** [Mysql,Supabase,Mongodb]
 
 
 ## Contact Me
