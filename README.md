@@ -4,12 +4,6 @@
 
 I am a passionate and detail-oriented software developer. My journey into the world of programming started with [MARKUP,CSS]. Since then, I have been fascinated by the intersection of code, design, and problem-solving.
 
-## Skills
-
-- **Languages:** [C,C++,Python,HTML,CSS,Javascript,Php.]
-=- **Frameworks/Libraries:** [Bootstrap,Material CSS,ANGULAR,REACT.]
-- **Databases:** [Mysql,Supabase,Mongodb]
-
 
 ## Contact Me
 
