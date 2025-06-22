@@ -11,7 +11,7 @@
 - I’m looking to collaborate on **Web development and design**👨‍💻 All of my projects are available at [https://github.com/bhattaraiprajwal](https://github.com/bhattaraiprajwal) 💬
 - Ask me about **react,vue** 📫
 - How to reach me **bhattaraiprajwal234@gmail.com**
--⚡ Fun fact **I think i am funny**.
+- ⚡ Fun fact **I think i am funny**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
