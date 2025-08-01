@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/703/926/desktop-wallpaper-don-t-know-if-i-should-post-it-here-but-i-edited-the-leap-of-faith-leap-of-faith.jpg" alt="Welcome Banner" width="100%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Prajwal Bhattarai</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
@@ -17,8 +20,30 @@
 <p align="left">
 </p>
 
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
+<a href="#">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
+<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
+
+<h3 align="center">About Me</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
+</p>
+<p align="center">
+  I'm a passionate student with a strong interest in software development, data structures, and open-source contributions. Continually improving my skills and exploring new technologies is what drives me. Let's connect and build something amazing together!
+</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
